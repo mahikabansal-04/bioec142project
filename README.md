@@ -1,2 +1,2 @@
 # bioec142project
-Checkpoints for developing a supervised learning ANN model applied to the ANI- 1 data set
+Project checkpoints for developing an ANI-style model using the ANI/GDB s01-s04 dataset
